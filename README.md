@@ -12,9 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Jacahi98&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacahi98&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jacahi98&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jacahi98&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
