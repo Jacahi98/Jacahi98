@@ -2,7 +2,7 @@
 
 Desarrollador Full Stack Junior en [ROAMS](https://roams.es). Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (UNIR), autodidacta con IA integrada en el flujo de trabajo.
 
-**Portfolio:** [jacahidev.vercel.app](https://jacahidev.vercel.app)
+**Portfolio:** [jacahidev.com](https://jacahidev.com)
 
 ## Proyectos
 
