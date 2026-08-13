@@ -16,4 +16,4 @@ Java · Angular · SQL · Python · Kotlin · HTML · CSS · JavaScript · TypeS
 
 ## Contacto
 
-[jacahidev@gmail.com](mailto:jacahidev@gmail.com) · <a href="https://www.linkedin.com/in/javier-calvo-hidalgo" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+[jacahidev@gmail.com](mailto:jacahidev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/javier-calvo-hidalgo)
