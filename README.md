@@ -1,6 +1,6 @@
 # Javier Calvo Hidalgo
 
-Desarrollador Full Stack Junior en [ROAMS](https://roams.es). Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (UNIR), autodidacta desde entonces. Uso IA como parte real del flujo de trabajo — acelera el código, pero las decisiones de arquitectura, producto y diseño son mías, y reviso cada línea antes de que llegue a producción.
+Desarrollador Full Stack Junior en [ROAMS](https://roams.es). Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (UNIR), autodidacta desde entonces. Construyo con IA como parte del flujo de trabajo.
 
 **Portfolio:** [jacahidev.vercel.app](https://jacahidev.vercel.app)
 
